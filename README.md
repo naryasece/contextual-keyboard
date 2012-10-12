@@ -5,10 +5,10 @@ Adding this function to your functions/main.ts allows you to provide contextual 
 This two functions makes it very easy to define what kind of keyboard should popup when the user is entering information onto a mobile form.
 
 ## Supported keyboards:
-numeric - 0-9 input
-email - QWERTY keyboard with extra keys for '.' and '@'
-tel - specific for telephone numbers. Provides '+','*' & '*'
-url - keyboard for entering URLs
+1. numeric - 0-9 input.
+2. email - QWERTY keyboard with extra keys for '.' and '@'.
+3. tel - specific for telephone numbers. Provides '+','*' & '*'.
+4. url - keyboard for entering URLs.
 
 ## Usage
 There are two functions that act nearly the same. One is for being in the scope of a node, the other is for targeting a node.
